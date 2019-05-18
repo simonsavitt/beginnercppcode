@@ -1,4 +1,4 @@
-// sum numberes from x to y, with y>x
+// sum numbers from x to y, with y>x
 #include <iostream>
 
 int main()
