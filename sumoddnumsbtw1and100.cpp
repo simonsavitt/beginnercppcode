@@ -8,4 +8,6 @@ int main()
         if(i%2==1) sum+=i; 
     }
     std::cout<<sum<<std::endl;
+    
+    return 0;
 }
